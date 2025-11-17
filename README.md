@@ -10,9 +10,9 @@ To implement a program to illustrate the mechanism of sliding window protocol
 6. Stop the Program
 ## PROGRAM
 
-Developed by : **PARANTHAMAN S**
+Developed by : **AVINASH K**
 
-Reg no : **212224040232**
+Reg no : **212224220016**
 
 ### Client
 ```python
